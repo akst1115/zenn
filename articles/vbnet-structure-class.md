@@ -1,5 +1,5 @@
 ---
-title: "【VB.NET】Structure(構造体)とClass（クラス）の違いや使い分け"
+title: "【VB.NET】Structure(構造体)とClass(クラス)の違いや使い分け"
 emoji: "🤔"
 type: "tech"
 topics:
